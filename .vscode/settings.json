@@ -1,0 +1,9 @@
+{
+  "bracketPairColorizer.forceIterationColorCycle": true,
+  "bracketPairColorizer.forceUniqueOpeningColor": true,
+  "bracketPairColorizer.highlightActiveScope": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "html.format.wrapLineLength": 80
+}
